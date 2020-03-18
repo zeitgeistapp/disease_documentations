@@ -1,6 +1,6 @@
 ___find the english version below___
 
-# Eindämmung des Corona Virus mit geringen Einschneidungen im Alltag.
+# Eindämmung des Corona Virus mit geringen Einschneidungen im Alltag
 
 Wir wollen den Corona Virus eindämmen, ohne vollständige Isolierung aller Menschen und ohne massive wirtschaftliche Einbußen. Wir wollen unsere Gesellschaft weitestgehend aufrechterhalten.
 
@@ -66,7 +66,7 @@ The Corona virus will test us as a society. If we want to maintain our democracy
 
 ## We need your help.
 
-If you want to help us out of free pieces, you are welcome.
+If you want to help us voluntaritly, you are welcome.
 
 We need many helpers:
 
